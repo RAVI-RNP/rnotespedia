@@ -202,13 +202,6 @@
         </div>
 
     </section>
-
-    <footer>
-        <p>© 2026 RNotesPedia | Education For Everyone</p>
-    </footer>
-
-</body>
-</html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -312,3 +305,13 @@
 
 </body>
 </html>
+
+
+    <footer>
+        <p>© 2026 RNotesPedia | Education For Everyone</p>
+    </footer>
+
+</body>
+</html>
+>
+
